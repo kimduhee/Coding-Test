@@ -34,5 +34,4 @@ public class Test9498 {
 		
 		System.out.print(level);
 	}
-
 }
