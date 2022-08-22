@@ -15,7 +15,6 @@ public class Test9498 {
 
 	public static void main(String[] args) throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		
 		String input = br.readLine();
 		int point = Integer.parseInt(input);
 		String level = "";
