@@ -4,15 +4,15 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-/********************************************¤µ¤§¤¤¤µ*******
- * ¾ç¼ö A°¡ NÀÇ ÁøÂ¥ ¾à¼ö°¡ µÇ·Á¸é, NÀÌ AÀÇ ¹è¼öÀÌ°í, 
- * A°¡ 1°ú NÀÌ ¾Æ´Ï¾î¾ß ÇÑ´Ù. 
- * ¾î¶² ¼ö NÀÇ ÁøÂ¥ ¾à¼ö°¡ ¸ðµÎ ÁÖ¾îÁú ¶§, NÀ» ±¸ÇÏ´Â ÇÁ·Î±×·¥À» ÀÛ¼ºÇÏ½Ã¿À.
+/*******ã…‡ã„´ã„»ã„´ì´ã…ë¢ˆã…‡ë…¸ëžŒã…‡ë†€
+ * ì–‘ìˆ˜ Aê°€ Nì˜ ì§„ì§œ ì•½ìˆ˜ê°€ ë˜ë ¤ë©´, Nì´ Aì˜ ë°°ìˆ˜ì´ê³ , 
+ * Aê°€ 1ê³¼ Nì´ ì•„ë‹ˆì–´ì•¼ í•œë‹¤. 
+ * ì–´ë–¤ ìˆ˜ Nì˜ ì§„ì§œ ì•½ìˆ˜ê°€ ëª¨ë‘ ì£¼ì–´ì§ˆ ë•Œ, Nì„ êµ¬í•˜ëŠ” í”„ë¡œê·¸ëž¨ì„ ìž‘ì„±í•˜ì‹œì˜¤.
  *
- * ÀÔ·Â
+ * ìž…ë ¥
  * 2
  * 4 2
- * Ãâ·Â
+ * ì¶œë ¥
  * 8
  */
 public class Test1037 {
